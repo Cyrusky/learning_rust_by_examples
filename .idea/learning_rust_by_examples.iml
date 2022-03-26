@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/projects/21. Testing/ch_21_3_integration_testing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/21. Testing/ch_21_1_unit_testing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/21. Testing/ch_21_4_dev_dependencies/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/21. Testing/ch_21_2_documentation_testing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/24. Meta/ch_24_2_playpen/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/24. Meta/ch_24_1_documentation/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/22. Unsafe Operations/ch_22_1_inline_assembly/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/04. Variable Bindings/ch_04_1_mutability/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/04. Variable Bindings/ch_04_4_freezing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/04. Variable Bindings/ch_04_2_scope_and_shadowing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/04. Variable Bindings/ch_04_3_declare_first/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/13. Attributes/ch_13_3_1_custom/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/13. Attributes/ch_13_1_dead_code/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/13. Attributes/ch_13_3_cfg/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/13. Attributes/ch_13_2_crates/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_5_3_binding/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_2_loop/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_5_1_4_pointers_ref/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_5_1_5_structs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_5_match/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_5_1_3_enums/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_6_if_let/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_7_while_let/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_5_1_destructuring/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_5_2_guards/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_3_while/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_2_1_nesting_and_labels/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_5_1_2_arrays_slices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_5_1_1_tuples/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_1_if_else/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_4_for_and_range/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_2_2_returning_from_loops/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/06. Conversion/ch_06_3_to_and_from_strings/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/06. Conversion/ch_06_1_from_and_into/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/06. Conversion/ch_06_2_tryfrom_and_tryinto/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_4_diverging_functions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_1_methods/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_2_6_examples_in_std/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_3_higher_order_functions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_2_3_type_anonymity/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_2_4_input_functions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_2_6_1_iterator_any/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_2_2_as_input_parameters/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_2_6_2_searching_through_iterators/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_2_1_capturing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_2_5_as_output_parameters/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_2_closures/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/23. Compatibility/ch_23_1_raw_identifiers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/05. Types/ch_05_3_inference/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/05. Types/ch_05_4_aliasing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/05. Types/ch_05_2_literals/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/05. Types/ch_05_1_casting/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/03. Custom Types/ch_03_2_enums/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/03. Custom Types/ch_03_1_structures/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/03. Custom Types/ch_03_2_1_use/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/03. Custom Types/ch_03_3_constants/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/03. Custom Types/ch_03_2_3_testcase_linked_list/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/03. Custom Types/ch_03_2_2_c_like/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/11. Crates/ch_11_1_creating_a_library/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/11. Crates/ch_11_2_using_a_library/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/02. Primitives/ch_02_1_literals_and_operators/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/02. Primitives/ch_02_3_arrays_and_slices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/02. Primitives/ch_02_2_tuples/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_9_arc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_5_result/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_5_1__/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_7_hashmap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_8_rc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_7_1_alternate_custom_key_types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_7_2_hashset/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_1_box_stack_and_heap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_2_vectors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_4_option/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_6_panic_/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_3_strings/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/10. Modules/ch_10_1_visibility/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/10. Modules/ch_10_4_super_and_self/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/10. Modules/ch_10_5_file_hierarchy/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/10. Modules/ch_10_3_the_use_declaration/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/10. Modules/ch_10_2_struct_visibility/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_1_functions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_3_traits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_7_new_type_idiom/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_5_multiple_bounds/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_6_where_clauses/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_9_1_testcase_unit_clarification/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_4_1_testcase_empty_bounds/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_9_phantom_type_parameters/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_8_associated_items/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_8_2_associated_types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_8_1_the_problem/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_2_implementation/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_4_bounds/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/17. macro_rules!/ch_17_3_dsl_domain_specific_languages_/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/17. macro_rules!/ch_17_4_variadics/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/17. macro_rules!/ch_17_1_2_overload/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/17. macro_rules!/ch_17_1_1_designators/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/17. macro_rules!/ch_17_2_dry_don_t_repeat_yourself_/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/17. macro_rules!/ch_17_1_syntax/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/17. macro_rules!/ch_17_1_3_repeat/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/01. Hello World/ch_01_2_1_debug/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/01. Hello World/ch_01_2_2_1_testcase_list/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/01. Hello World/ch_01_2_3_formatting/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/01. Hello World/ch_01_2_formatted_print/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/01. Hello World/ch_01_1_comments/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/01. Hello World/ch_01_2_2_display/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_8_foreign_function_interface/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_5_2_wait/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_1_threads/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_4_2_create/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_4_file_i_o/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_4_3_read_lines/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_3_path/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_2_channels/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_4_1_open/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_7_1_argument_parsing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_7_program_arguments/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_5_child_processes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_5_1_pipes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_6_filesystem_operations/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_1_1_testcase_map_reduce/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/12. Cargo/ch_12_2_conventions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/12. Cargo/ch_12_4_build_scripts/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/12. Cargo/ch_12_3_tests/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/12. Cargo/ch_12_1_dependencies/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/16. Traits/ch_16_5_iterators/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/16. Traits/ch_16_1_derive/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/16. Traits/ch_16_4_drop/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/16. Traits/ch_16_8_supertraits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/16. Traits/ch_16_7_clone/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/16. Traits/ch_16_2_returning_traits_with_dyn/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/16. Traits/ch_16_3_operator_overloading/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/16. Traits/ch_16_9_disambiguating_overlapping_traits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/16. Traits/ch_16_6_impl_trait/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_4_7_coercion/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_4_1_explicit_annotation/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_4_8_static/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_4_5_traits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_2_2_partial_moves/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_2_1_mutability/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_4_4_structs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_1_raii/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_3_2_aliasing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_3_borrowing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_4_lifetimes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_3_1_mutability/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_4_3_methods/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_2_ownership_and_moves/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_4_6_bounds/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_4_9_elision/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_3_3_the_ref_pattern/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_4_2_functions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_4_3_boxing_errors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_4_4_other_uses_of_/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_2_1_unpacking_options_with_/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_2_option_unwrap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_2_2_combinators_map/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_4_2_defining_an_error_type/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_3_1_map_for_result/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_3_3_early_returns/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_3_4_introducing_/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_4_1_pulling_results_out_of_options/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_3_result/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_5_iterating_over_results/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_2_3_combinators_and_then/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_4_multiple_error_types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_4_5_wrapping_errors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_3_2_aliases_for_result/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_1_panic/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/21. Testing/ch_21_3_integration_testing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/21. Testing/ch_21_1_unit_testing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/21. Testing/ch_21_4_dev_dependencies/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/21. Testing/ch_21_2_documentation_testing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/24. Meta/ch_24_2_playpen/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/24. Meta/ch_24_1_documentation/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/22. Unsafe Operations/ch_22_1_inline_assembly/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/04. Variable Bindings/ch_04_1_mutability/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/04. Variable Bindings/ch_04_4_freezing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/04. Variable Bindings/ch_04_2_scope_and_shadowing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/04. Variable Bindings/ch_04_3_declare_first/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/13. Attributes/ch_13_3_1_custom/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/13. Attributes/ch_13_1_dead_code/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/13. Attributes/ch_13_3_cfg/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/13. Attributes/ch_13_2_crates/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_5_3_binding/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_2_loop/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_5_1_4_pointers_ref/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_5_1_5_structs/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_5_match/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_5_1_3_enums/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_6_if_let/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_7_while_let/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_5_1_destructuring/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_5_2_guards/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_3_while/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_2_1_nesting_and_labels/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_5_1_2_arrays_slices/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_5_1_1_tuples/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_1_if_else/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_4_for_and_range/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/08. Flow of Control/ch_08_2_2_returning_from_loops/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/06. Conversion/ch_06_3_to_and_from_strings/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/06. Conversion/ch_06_1_from_and_into/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/06. Conversion/ch_06_2_tryfrom_and_tryinto/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_4_diverging_functions/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_1_methods/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_2_6_examples_in_std/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_3_higher_order_functions/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_2_3_type_anonymity/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_2_4_input_functions/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_2_6_1_iterator_any/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_2_2_as_input_parameters/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_2_6_2_searching_through_iterators/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_2_1_capturing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_2_5_as_output_parameters/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/09. Functions/ch_09_2_closures/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/23. Compatibility/ch_23_1_raw_identifiers/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/05. Types/ch_05_3_inference/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/05. Types/ch_05_4_aliasing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/05. Types/ch_05_2_literals/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/05. Types/ch_05_1_casting/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/03. Custom Types/ch_03_2_enums/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/03. Custom Types/ch_03_1_structures/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/03. Custom Types/ch_03_2_1_use/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/03. Custom Types/ch_03_3_constants/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/03. Custom Types/ch_03_2_3_testcase_linked_list/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/03. Custom Types/ch_03_2_2_c_like/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/11. Crates/ch_11_1_creating_a_library/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/11. Crates/ch_11_2_using_a_library/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/02. Primitives/ch_02_1_literals_and_operators/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/02. Primitives/ch_02_3_arrays_and_slices/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/02. Primitives/ch_02_2_tuples/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_9_arc/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_5_result/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_5_1__/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_7_hashmap/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_8_rc/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_7_1_alternate_custom_key_types/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_7_2_hashset/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_1_box_stack_and_heap/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_2_vectors/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_4_option/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_6_panic_/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/19. Std library types/ch_19_3_strings/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/10. Modules/ch_10_1_visibility/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/10. Modules/ch_10_4_super_and_self/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/10. Modules/ch_10_5_file_hierarchy/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/10. Modules/ch_10_3_the_use_declaration/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/10. Modules/ch_10_2_struct_visibility/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_1_functions/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_3_traits/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_7_new_type_idiom/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_5_multiple_bounds/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_6_where_clauses/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_9_1_testcase_unit_clarification/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_4_1_testcase_empty_bounds/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_9_phantom_type_parameters/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_8_associated_items/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_8_2_associated_types/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_8_1_the_problem/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_2_implementation/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/14. Generics/ch_14_4_bounds/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/17. macro_rules!/ch_17_3_dsl_domain_specific_languages_/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/17. macro_rules!/ch_17_4_variadics/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/17. macro_rules!/ch_17_1_2_overload/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/17. macro_rules!/ch_17_1_1_designators/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/17. macro_rules!/ch_17_2_dry_don_t_repeat_yourself_/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/17. macro_rules!/ch_17_1_syntax/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/17. macro_rules!/ch_17_1_3_repeat/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/01. Hello World/ch_01_2_1_debug/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/01. Hello World/ch_01_2_2_1_testcase_list/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/01. Hello World/ch_01_2_3_formatting/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/01. Hello World/ch_01_2_formatted_print/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/01. Hello World/ch_01_1_comments/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/01. Hello World/ch_01_2_2_display/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_8_foreign_function_interface/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_5_2_wait/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_1_threads/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_4_2_create/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_4_file_i_o/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_4_3_read_lines/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_3_path/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_2_channels/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_4_1_open/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_7_1_argument_parsing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_7_program_arguments/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_5_child_processes/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_5_1_pipes/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_6_filesystem_operations/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/20. Std misc/ch_20_1_1_testcase_map_reduce/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/12. Cargo/ch_12_2_conventions/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/12. Cargo/ch_12_4_build_scripts/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/12. Cargo/ch_12_3_tests/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/12. Cargo/ch_12_1_dependencies/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/16. Traits/ch_16_5_iterators/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/16. Traits/ch_16_1_derive/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/16. Traits/ch_16_4_drop/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/16. Traits/ch_16_8_supertraits/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/16. Traits/ch_16_7_clone/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/16. Traits/ch_16_2_returning_traits_with_dyn/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/16. Traits/ch_16_3_operator_overloading/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/16. Traits/ch_16_9_disambiguating_overlapping_traits/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/16. Traits/ch_16_6_impl_trait/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_4_7_coercion/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_4_1_explicit_annotation/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_4_8_static/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_4_5_traits/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_2_2_partial_moves/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_2_1_mutability/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_4_4_structs/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_1_raii/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_3_2_aliasing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_3_borrowing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_4_lifetimes/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_3_1_mutability/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_4_3_methods/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_2_ownership_and_moves/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_4_6_bounds/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_4_9_elision/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_3_3_the_ref_pattern/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/15. Scoping rules/ch_15_4_2_functions/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_4_3_boxing_errors/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_4_4_other_uses_of_/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_2_1_unpacking_options_with_/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_2_option_unwrap/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_2_2_combinators_map/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_4_2_defining_an_error_type/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_3_1_map_for_result/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_3_3_early_returns/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_3_4_introducing_/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_4_1_pulling_results_out_of_options/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_3_result/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_5_iterating_over_results/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_2_3_combinators_and_then/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_4_multiple_error_types/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_4_5_wrapping_errors/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_3_2_aliases_for_result/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/18. Error handling/ch_18_1_panic/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
